@@ -27,3 +27,4 @@ teams and project details
 13. Pratham Biswal & Subhra Tripathy : IOT based plane using cpp
 14. Jagannath Pallav Das & Koparde Pranav : Corporate Documentation
 15. Shivanshu Singh & Shripati Pandey : NA
+16. Akshat Panda & Aman Avinash Pradhan : Health management system
