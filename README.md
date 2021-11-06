@@ -16,3 +16,4 @@ teams and project details
 5. Rudransh Panigrah & Shubhasai Mohapatra : App Development project Not decided
 6. Mrinal Sawarn & Om prakash sahoo : Related to games
 7. Yash Sonkar & Arunaditya Das : NA
+8. Prajwal Butle & Shubra bhanja  : NA
