@@ -3,11 +3,12 @@ teams and project details
 # Require a Team:
 1. Sumit Kumar (cpp)
 2. Baljeet Singh (Python ,c)
-3. Ravi Shankar (Any tech, but i would prefer cpp because that is what we are learning. )
+3. Ravi Shankar (Any tech, but i would prefer cpp because that is what we are learning.)
 4. Pratham Prateek Nayak (python, cpp)
 5. BALDEV PRAKASH RAY(Any ide)
 6. Saswata Mookherji (Python,ML,DL)
 7. Sanchit Varma (Working Solo) (Tic Tac Toe)
+8. Ansh chaturvedi (Web devlopment, i already have two projects completed (MERN) so anyone can join me)
 
 # Have a team
 1. Aryan Sinha & Abhishek Kumar : Spotify Clone
