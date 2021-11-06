@@ -26,3 +26,4 @@ teams and project details
 12. Bijaya Nanda Murmu & Shivam Dey : NA
 13. Pratham Biswal & Subhra Tripathy : IOT based plane using cpp
 14. Jagannath Pallav Das & Koparde Pranav : Corporate Documentation
+15. Shivanshu Singh & Shripati Pandey : NA
