@@ -19,3 +19,6 @@ teams and project details
 6. Mrinal Sawarn & Om prakash sahoo : Related to games
 7. Yash Sonkar & Arunaditya Das : NA
 8. Prajwal Butle & Shubra bhanja  : NA
+9. Bibek ku. Mohanty & Soumya Ranjan Sethy : Still finding a project, will Start shortly
+10. Abhishek Gaurav & Rudra Pratap Singh : NA
+11. Tanisha & Ayushi : NA
