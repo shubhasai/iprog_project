@@ -7,6 +7,7 @@ teams and project details
 4. Pratham Prateek Nayak (python, cpp)
 5. BALDEV PRAKASH RAY(Any ide)
 6. Saswata Mookherji (Python,ML,DL)
+7. Sanchit Varma (Working Solo) (Tic Tac Toe)
 
 # Have a team
 1. Aryan Sinha & Abhishek Kumar : Spotify Clone
