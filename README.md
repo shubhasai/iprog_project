@@ -1,6 +1,7 @@
 # iprog_project (Will get Updated As new Respose Added via Google Form)
 teams and project details
 # Require a Team:
+(Contact With Each other and form teams)
 1. Sumit Kumar (cpp)
 2. Baljeet Singh (Python ,c)
 3. Ravi Shankar (Any tech, but i would prefer cpp because that is what we are learning.)
@@ -23,3 +24,5 @@ teams and project details
 10. Abhishek Gaurav & Rudra Pratap Singh : NA
 11. Tanisha & Ayushi : NA
 12. Bijaya Nanda Murmu & Shivam Dey : NA
+13. Pratham Biswal & Subhra Tripathy : IOT based plane using cpp
+14. Jagannath Pallav Das & Koparde Pranav : Corporate Documentation
