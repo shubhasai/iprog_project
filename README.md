@@ -10,6 +10,7 @@ teams and project details
 6. Saswata Mookherji (Python,ML,DL)
 7. Sanchit Varma (Working Solo) (Tic Tac Toe)
 8. Ansh chaturvedi (Web devlopment, i already have two projects completed (MERN) so anyone can join me)
+9. Ankush Nigam (C, Java, SQL/ I had a project of school management system made using java and sql)
 
 # Have a team
 1. Aryan Sinha & Abhishek Kumar : Spotify Clone
@@ -28,3 +29,4 @@ teams and project details
 14. Jagannath Pallav Das & Koparde Pranav : Corporate Documentation
 15. Shivanshu Singh & Shripati Pandey : NA
 16. Akshat Panda & Aman Avinash Pradhan : Health management system
+17. Dhruti Mohan Tripathy & Deependra Singh : Library Management System
