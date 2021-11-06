@@ -4,7 +4,15 @@ teams and project details
 1. Sumit Kumar (Now, I have no idea)
 2. Baljeet Singh (Python ,c)
 3. Ravi Shankar (Any tech, but i would prefer cpp because that is what we are learning. )
-
+4. Pratham Prateek Nayak (python, cpp)
+5. BALDEV PRAKASH RAY(Any ide)
+6. Saswata Mookherji (Python,ML,DL)
 
 # Have a team
-Will Get updated Soon.....
+1. Aryan Sinha & Abhishek Kumar : Spotify Clone
+2. Sudip Nayak & Harsh Verma : Vaccine management system
+3. Sripraneeth Salapareddi & Mridul pati Tiwari : Coding a small game
+4. Ashutosh Agarwal & Subhasish Mallik : School Fees management
+5. Rudransh Panigrah & Shubhasai Mohapatra : App Development project Not decided
+6. Mrinal Sawarn & Om prakash sahoo : Related to games
+7. Yash Sonkar & Arunaditya Das : NA
