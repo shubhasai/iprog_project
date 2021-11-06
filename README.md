@@ -22,3 +22,4 @@ teams and project details
 9. Bibek ku. Mohanty & Soumya Ranjan Sethy : Still finding a project, will Start shortly
 10. Abhishek Gaurav & Rudra Pratap Singh : NA
 11. Tanisha & Ayushi : NA
+12. Bijaya Nanda Murmu & Shivam Dey : NA
